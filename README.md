@@ -1,3 +1,5 @@
+Millan Figueroa Actual Sprint
+
 # Sprint-Challenge Applied Javascript - Lambda Times
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored the DOM and the concept of components. During this Sprint, you studied the DOM, DOM Events, and Components. In your challenge this week, you will demonstrate proficiency by creating an online Lambda newspaper called "Lambda Times."
@@ -31,21 +33,26 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the DOM?
+The DOM gives us an interface that a developer uses to manipulate an HTML document-- changing itsw structure, content and styles.
 
 2. What is an event?
+Is refrence that triggers certain HTML classes, tags, or ids. and make them functional
 
 3. What is an event listener?
+An event listener is a function that allows a chosen element  to listen to a specific event and react by firing a callback.
 
 4. Why would we convert a NodeList into an Array?
+Because an array comes with five methods only, whereas an array,  comes with lots of methods. 
 
 5. What is a component?
+Components are reusable pieces of code that can be used to build elements that share functionality and styling.
 
 ### Git Set up
 
-* [ ] Fork the project into your GitHub user account
-* [ ] Clone the forked project into a directory on your machine
-* [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
-* [ ] You are now ready to build this project with your preferred IDE
+* [x] Fork the project into your GitHub user account
+* [x] Clone the forked project into a directory on your machine
+* [x] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
+* [x] You are now ready to build this project with your preferred IDE
 
 ## Minimum Viable Product
 
